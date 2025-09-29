@@ -5,4 +5,4 @@ echo "Creating package structure"
 cp rofimanager rmanager/usr/local/bin/
 echo "Packaging build to .deb"
 dpkg-deb --build rmanager
-echo "Package created: rmanager.deb"SS
+echo "Package created: rmanager.deb"
